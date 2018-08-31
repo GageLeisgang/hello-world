@@ -1,4 +1,4 @@
 # hello-world
 Hello world repository
 
-My name is Gage and I like stuff.
+My name is Gage and I like stuff. :D
